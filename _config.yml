@@ -20,16 +20,16 @@ sass:
   style:            compressed
 
 # Comment
-comment:
-  disqus: kongsong    
-  duoshuo: kongsong
+#comment:
+  #disqus: kongsong    
+  #duoshuo: kongsong
 
 # Website analytics
 google_analytics: UA-82494501-1
 
 
 # Author information:
-author:
+author: Cindy
   resume:
   name: Cindy Dias     #the name of Blog section
   about_me: I'm Cindy Dias, a first grade teacher at JPO Elementary School.
