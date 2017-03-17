@@ -1,9 +1,9 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: Ms. Dias's site
+description: 
 logo: favicon.png
-url: kongsong.me
-rss_url: /feed.xml
+url: msdias.com
+rss_url:
 
 # Jekyll
 permalink:          /blog/:title/
@@ -26,22 +26,22 @@ comment:
 
 # Website analytics
 google_analytics: UA-82494501-1
-baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
+
 
 # Author information:
 author:
-  resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
+  resume:
+  name: Cindy Dias     #the name of Blog section
+  about_me: I'm Cindy Dias, a first grade teacher at JPO elementary.
  
 # Social Links
-email:               hi@kongsong.me
+email:               cdias@smbsd.net
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+#facebook:            
+#github:             
+#stackoverflow:      
+#linkedin:           
 #xing:              username
 #instagram:          username
 #lastfm:            username
