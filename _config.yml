@@ -19,11 +19,6 @@ sass:
   sass_dir:         assets/_sass
   style:            compressed
 
-# Comment
-#comment:
-  #disqus: kongsong    
-  #duoshuo: kongsong
-
 # Website analytics
 google_analytics: UA-82494501-1
 
